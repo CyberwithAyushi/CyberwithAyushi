@@ -1,8 +1,5 @@
 Hello, I'm AYUSHI
 
-<!--
-**CyberwithAyushi/CyberwithAyushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 📊 Currently pursuing a Master's in Electrical & Computer Engineering with a focus on Cybersecurity at UVic.
 
 🎯 Objective
@@ -24,4 +21,3 @@ To leverage my cybersecurity expertise and testing experience to develop innovat
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
--->

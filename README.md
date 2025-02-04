@@ -1,6 +1,6 @@
 Hello, I'm AYUSHI
 
-<a href="https://linkedin.com/imayushipandey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/imayushipandey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Currently pursuing Master's in Electrical & Computer Engineering with a focus on Cybersecurity.

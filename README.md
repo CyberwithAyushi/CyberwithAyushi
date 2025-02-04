@@ -1,13 +1,12 @@
 Hello, I'm AYUSHI
 
-📊 Currently pursuing a Master's in Electrical & Computer Engineering with a focus on Cybersecurity at UVic.
+Currently pursuing Master's in Electrical & Computer Engineering with a focus on Cybersecurity.
 
-🎯 Objective
+## Objective
 
 To leverage my cybersecurity expertise and testing experience to develop innovative solutions that safeguard organizations against evolving cyber threats.
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>

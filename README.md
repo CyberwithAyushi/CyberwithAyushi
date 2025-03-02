@@ -7,7 +7,7 @@ Currently pursuing Master's in Electrical & Computer Engineering with a focus on
 
 ## Objective
 
-To leverage my cybersecurity expertise and testing experience to develop innovative solutions that safeguard organizations against evolving cyber threats.
+My journey in Electrical & Computer Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 

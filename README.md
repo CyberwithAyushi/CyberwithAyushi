@@ -13,7 +13,7 @@ To leverage my cybersecurity expertise and testing experience to develop innovat
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| NGFW Firewall Configuration and Zero-Trust Security         | <a href="https://github.com/yourusername/firewall-project">Firewall Security Lab</a>|
+| NGFW Firewall Configuration and Zero-Trust Security         | <a href="https://github.com/CyberwithAyushi/Firewall.git">Firewall Security Lab</a>|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/CyberwithAyushi/ActiveDirectoryHomelab.git">Detection Lab</a>|
 
 ## Tools

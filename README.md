@@ -9,6 +9,13 @@ Currently pursuing Master's in Electrical & Computer Engineering with a focus on
 
 To leverage my cybersecurity expertise and testing experience to develop innovative solutions that safeguard organizations against evolving cyber threats.
 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| NGFW Firewall Configuration and Zero-Trust Security         | <a href="https://github.com/yourusername/firewall-project">Firewall Security Lab</a>|
+| SIEM Implementation and Log Analysis | <a href="https://github.com/CyberwithAyushi/ActiveDirectoryHomelab.git">Detection Lab</a>|
+
 ## Tools
 
 ### Network
@@ -22,3 +29,6 @@ To leverage my cybersecurity expertise and testing experience to develop innovat
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+## Projects
+- Firewall Configuration Lab
+- Detection Lab

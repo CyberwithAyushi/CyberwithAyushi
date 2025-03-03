@@ -1,4 +1,7 @@
-Hello, I'm AYUSHI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E6BF7&width=435&lines=Hi+I'm+Ayushi)](https://git.io/typing-svg)
+
+## AYUSHI PANDEY
 
 <a href="https://linkedin.com/in/imayushipandey"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
